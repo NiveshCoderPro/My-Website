@@ -1,0 +1,83 @@
+.top_container {
+    background-color:aquamarine;
+    text-align: center;
+}
+
+h1 {
+    margin:0px;
+}
+
+body {
+    margin:0;
+    text-align: center;
+}
+
+.cloud-1 {
+    width:200px;
+    position:absolute;
+    left:300px;
+    top:300px;
+}
+
+.cloud-2 {
+    width: 200px;
+    position: relative;
+    left:250px;
+}
+
+.title {
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+}
+
+.description {
+    font-family: cursive;
+}
+
+.title_skill {
+    font-family:'Bungee Spice', cursive;
+}
+
+.skill-explain {
+    font-family:cursive;
+    display: inline-block;
+    position:absolute;
+    top:900px;
+    right:30px;
+    width:70%;
+    font-size: 30px;
+}
+
+.skill-row {
+    background-color: aqua;
+    margin-left: 50px;
+    margin-right:50px;
+    height:220px;
+
+}
+
+.skill-image {
+    margin-right:1000px;
+    width:150px;
+}
+
+.skill-row-2 {
+    background-color: aqua;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 220px;
+
+}
+
+.skill-image-2 {
+    position: absolute;
+    right:70px;
+    top:1150px;
+    width: 150px;
+}
+
+.skill-explain-2 {
+    font-family: cursive;
+    font-size:30px;
+    width: 70%;
+}
